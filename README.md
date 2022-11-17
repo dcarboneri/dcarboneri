@@ -17,4 +17,4 @@ Softskills:
 - 
 - Contato:
 - linkedin(https://www.linkedin.com/in/danilocarbonerisarto/)
-- E-mail(dsarto10@gmaill.com)
+- E-mail(dsarto10@gmail.com)
