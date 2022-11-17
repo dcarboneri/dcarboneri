@@ -15,6 +15,7 @@ Softskills:
 - Bom relacionamento sem competitividade
 - Organização
 
+
 - Contato:
 - linkedin(https://www.linkedin.com/in/danilocarbonerisarto/)
 - E-mail(dsarto10@gmail.com)
